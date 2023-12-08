@@ -5,7 +5,7 @@ export function Groups(){
     return (
         <Container>
             <Title>
-                Groups!!
+                Groups!
             </Title>    
         </Container>
     );
